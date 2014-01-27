@@ -1,0 +1,1 @@
+Directory containing all the resources of your project. This includes all images (placed inside a image/ subdirectory, all audio files (placed inside a raw/ subdirectory), and all other non-source files (placed in a data/ subdirectory).
